@@ -164,8 +164,8 @@ This script demonstrates how DevOps engineers can use simple Bash scripting and 
 
 ## 🟎️ Screenshots
 
-[media pointer="file-service://file-5CxfK1kt9P48EnMkpJVkC1"]
-[media pointer="file-service://file-8H6rGmvPuh174adajzkRZv"]
+<img width="961" height="677" alt="aws011" src="https://github.com/user-attachments/assets/fc29571c-efb5-462f-aea2-c5dcd883dfb8" />
+<img width="961" height="312" alt="aws012" src="https://github.com/user-attachments/assets/c2db547d-9fbd-4c67-a5d3-ff85f03c1ba4" />
 
 
 ---
